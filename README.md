@@ -1,2 +1,2 @@
 # Flux
-Flux1.Dev/schnell unlimited for free 
+<h2> this is my new project made with python requests to have Flux AI image generation for free ! <h2>
